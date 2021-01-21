@@ -220,3 +220,7 @@ dmypy.json
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/django,vscode,python
+
+
+# for Secret keys for djnago
+secrets.json
